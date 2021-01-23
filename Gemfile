@@ -56,3 +56,4 @@ gem 'graphql'
 
   # Orchestration
   gem 'dotenv-rails'
+gem 'graphiql-rails', group: :development

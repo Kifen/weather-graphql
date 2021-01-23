@@ -5,7 +5,5 @@ module Types
     field :feel_like, String, null: false
     field :pressure, Float, null: false
     field :humidity, Float, null: false
-    field :wind, Types::WindType, null: false
-    field :wind, Types::CoordinatesType, null: false
   end
 end
